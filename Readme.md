@@ -11,6 +11,7 @@ General reposti!
 - Material UI for skin
 
 ##TO RUN
+
 ###Run the Server
   - `cd /server`
   - `npm install`
