@@ -1,20 +1,24 @@
-Hello there general kenobi!
+General reposti!
 
-Tech used
+##Tech used
 - MongoDB
 - Node
 - NPM
-- React
+- Apollo
+- Create React
 - GraphQL
 - Express
 - Material UI for skin
 
-TO RUN
+##TO RUN
+###Run the Server
+  - `cd /server`
+  - `npm install`
+  - `node start`
+    -*runs on localhost:3000
 
-- `cd /server`
-- `npm install`
-- `node start`
-
+###Run the Client
 - `cd ../client`
 - `npm install`
 - `npm start`
+  -*runs on localhost:3000
